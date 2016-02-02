@@ -3,13 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello World!")
+	fmt.Println("Hello World2!")
 }
-
-$ go run hello.go
-Hello World!
-
-$ go build hello.go
-
-$ hello
-Hello World!
